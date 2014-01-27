@@ -2,6 +2,7 @@ learning-travistci
 ===
 
 [![Build Status](https://travis-ci.org/joaquindev/learning-travisci.png?branch=master)](https://travis-ci.org/joaquindev/learning-travisci)
+[![Coverage Status](https://coveralls.io/repos/joaquindev/learning-travisci/badge.png)](https://coveralls.io/r/joaquindev/learning-travisci)
 
 I've done this repository to learn how to use [Travis CI][url-travisci]. I'm going to follow this tutorial: [Travis-CI: What, Why, How][url-tutorial].
 
