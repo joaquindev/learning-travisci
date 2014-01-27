@@ -1,0 +1,26 @@
+{
+  "name": "learning-travisci",
+  "version": "0.1.0",
+  "description": "A repo following the tutorial in README",
+  "main": "hello.js",
+  "scripts": {
+    "test": "grunt --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaquindev/learning-travisci.git"
+  },
+  "keywords": [
+    "travisci",
+    "test"
+  ],
+  "author": "JoaquinDev",
+  "license": "The same as the tutorial",
+  "readmeFilename": "README.md",
+  "gitHead": "e0178094e08fe95f24ea31902b7907b2f3da6d94",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-cli": "~0.1.13",
+    "grunt-contrib-jshint": "~0.8.0"
+  }
+}
