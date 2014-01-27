@@ -23,6 +23,11 @@
     "grunt-cli": "~0.1.13",
     "grunt-contrib-jshint": "~0.8.0",
     "grunt-coveralls": "~0.2.0",
-    "coveralls": "~2.6.1"
+    "coveralls": "~2.6.1",
+    "mocha-lcov-reporter": "0.0.1",
+    "mocha-istanbul": "~0.2.0"
+  },
+  "dependencies": {
+    "istanbul": "~0.2.4"
   }
 }
